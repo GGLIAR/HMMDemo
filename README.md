@@ -12,4 +12,4 @@ And Tester.java is a demo for test.
 ##License
 The package *com.sweetdum.hmm* is released under MIT License.
 ##Reference
-* Christopher D. Manning, Hinrich Schütze. * Foundations of Statistical Natural Language Processing 1 edition* Chapter 9, The MIT Press 1999
+* Christopher D. Manning, Hinrich Schütze. *Foundations of Statistical Natural Language Processing 1 edition* Chapter 9, The MIT Press 1999
